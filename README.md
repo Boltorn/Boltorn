@@ -20,7 +20,7 @@
 <br/>  
 
 
-## Rapidfire  
+## About me  
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Python and Machine learning  
